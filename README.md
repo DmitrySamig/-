@@ -20,7 +20,15 @@ Scematics:
 
 2D
 
-![Скриншот-02-05-2025 17_36_17](https://github.com/user-attachments/assets/bc314c27-b532-4dc5-a7b3-be97aa08afb1)
+
+![Скриншот-05-05-2025 07_44_53](https://github.com/user-attachments/assets/f666e6a3-33fb-48dd-8ec5-36f97d66e057)
+
+
+![Скриншот-05-05-2025 07_43_50](https://github.com/user-attachments/assets/cab364a1-c350-4d5d-a042-c9353633c785)
+
 
 3D PCB view:
-![3D_PCB_Joystick_2025-05-01](https://github.com/user-attachments/assets/b0d542b8-0bae-4afe-bad6-7ca214128a73)
+
+![Скриншот-05-05-2025 07_46_46](https://github.com/user-attachments/assets/d3005542-e17b-44e5-8a06-b6abf0d62df0)
+
+
